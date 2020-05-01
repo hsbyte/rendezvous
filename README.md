@@ -12,9 +12,7 @@ RendezvouS is a about connecting people with similar interest, from activities a
 >Still a work in progress.
 
 #### Preview
-<p align="center">
-  <img src=".md/preview.gif">
-</p>
+
 
 ## Author
 >Arnold Haban
